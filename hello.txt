@@ -12,3 +12,5 @@ hello git
 hello git
 >>>>>>> fd8b37580c3f45d196b2c7ecfce4023a505c98b1
 
+nopassword
+
