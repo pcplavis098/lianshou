@@ -1,6 +1,6 @@
 hello git
-hello git
-hello git
-hello git
 
-world
+world   
+
+
+wechatAppPay = 'asd'
