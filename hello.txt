@@ -1,6 +1,5 @@
 hello git
 
-world   
+world
 
-
-wechatAppPay = 'asd'
+AliAppKey = 'zxc'
